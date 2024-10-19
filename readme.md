@@ -114,6 +114,5 @@ To run the application locally, follow these steps:
   - Billy follows Mandy
   - If Mandy starts a streaming, Billy receive a push notification or an email if he’s not connected to the website.
   -  Billy can go on Mandy’s stream and start chatting (basic)
-- i18n integration
-
+  
 ## Deployment
